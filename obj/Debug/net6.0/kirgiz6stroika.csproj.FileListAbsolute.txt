@@ -1,0 +1,17 @@
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\bin\Debug\net6.0\kirgiz6stroika.exe
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\bin\Debug\net6.0\kirgiz6stroika.deps.json
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\bin\Debug\net6.0\kirgiz6stroika.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\bin\Debug\net6.0\kirgiz6stroika.dll
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\bin\Debug\net6.0\kirgiz6stroika.pdb
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.csproj.CopyComplete
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.dll
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\refint\kirgiz6stroika.dll
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.pdb
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\kirgiz6stroika.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\kirgiz6stroika\kirgiz6stroika\obj\Debug\net6.0\ref\kirgiz6stroika.dll
